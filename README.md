@@ -1,4 +1,4 @@
-# Aula-17-backend-autenticacao
+# Aula-17-backend-autenticacao-incompleto
 
 Esse repositório é construído por cima do backend presente na Aula-15-Backend-Crud: [Repo-Aula-15](https://github.com/philcisco-classroom/aula-15-crud-backend-filmes).
 O objetivo é adicionar as seguintes funcionalidades:
